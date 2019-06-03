@@ -1,0 +1,5 @@
+# 百度api
+APP_ID = '16418556'
+API_KEY = 'azT2pN7X5i9sR3xYg1gI6454'
+SECRET_KEY = 'wCFx05RFs2jUyfAIi1VdWIbqOrBIwPiO'
+
